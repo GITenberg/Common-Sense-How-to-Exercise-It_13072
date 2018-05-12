@@ -1,0 +1,39 @@
+_repo: Common-Sense-How-to-Exercise-It_13072
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Blanchard, Mme.
+    gutenberg_agent_id: '39897'
+    url: http://www.gutenberg.org/2009/agents/39897
+  translator:
+    agent_name: Berthelot de la Boileverie, Lily Kendall Beers
+    alias: Boileverie, Lily Kendall Beers Berthelot de la
+    gutenberg_agent_id: '39902'
+    url: http://www.gutenberg.org/2009/agents/39902
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yoritomo-Tashi
+    gutenberg_agent_id: '4816'
+    url: http://www.gutenberg.org/2009/agents/4816
+description: The quality popularly designated as "Common Sense" comprehends, according
+  to the modern point of view, the sound judgment of mankind when reflecting upon
+  problems of truth and conduct without bias from logical subtleties or selfish interests.
+  It is one of Nature's priceless gifts; an income in itself, it is as valuable as
+  its application is rare. How often we hear the expression "Why, I never thought
+  of that!" Why? Because we have failed to exercise Common Sense - ...
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+title: Common Sense, How to Exercise It
+url: http://www.gutenberg.org/ebooks/13072
